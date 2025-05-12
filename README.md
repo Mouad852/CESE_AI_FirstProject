@@ -36,15 +36,16 @@ Ce projet utilise des techniques d'apprentissage automatique pour prédire les p
 ## 📸 Visualisations
 
 ### Heatmap de corrélation
-!(./Visualisations/Heatmap.png)
+![](./Visualisations/Heatmap.png)
 
-### Histogramme de distribution des Prix de vente
-(./Visualisations/Histogramme de distribution des prix.png)
+### Histogramme de distribution des Prix ![Uploading Histogramme de distribution des prix.png…]()
+de vente
+![](./Visualisations/Histogramme de distribution des prix.png)
 
 ### Histogramme de distribution des prix de vente (échelle logarithmique)
-(./Visualisations/Histogramme de distribution des prix (en echelle logarithmique).png)
+![](./Visualisations/Histogramme de distribution des prix (en echelle logarithmique).png)
 
 ### Distribution des prix de vente selon la qualité globale (Violin plot)
-(./Visualisations/Violin plot.png)
+![](./Visualisations/Violin plot.png)
 
 
