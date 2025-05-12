@@ -36,7 +36,7 @@ Ce projet utilise des techniques d'apprentissage automatique pour prédire les p
 ## 📸 Visualisations
 
 ### Heatmap de corrélation
-(./Visualisations/Heatmap.png)
+!(./Visualisations/Heatmap.png)
 
 ### Histogramme de distribution des Prix de vente
 (./Visualisations/Histogramme de distribution des prix.png)
